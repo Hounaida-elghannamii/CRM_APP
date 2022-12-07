@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/back.xml" value="0.142" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_add_ic_call_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_event_available_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_fact_check_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_fiber_manual_record_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_local_post_office_24.xml" value="0.124" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_perm_phone_msg_24.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_question_answer_24.xml" value="0.124" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_sentiment_satisfied_alt_24.xml" value="0.124" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_baseline_sentiment_very_satisfied_24.xml" value="0.124" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.139" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/oval.xml" value="0.1415" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/rrr.xml" value="0.142" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/drawable/vvv.xml" value="0.142" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout-land/app_bar_main.xml" value="0.2671875" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout-land/content_main.xml" value="0.2671875" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout-land/nav_header_main.xml" value="0.2671875" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout-land/proc.xml" value="0.1954954954954955" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout-land/suc.xml" value="0.1954954954954955" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout-land/success.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/accuiel.xml" value="0.264" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/bb.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/blog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/connecter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/contact.xml" value="0.2" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/documentation.xml" value="0.23183760683760685" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/example_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/frminscription.xml" value="0.2" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/google.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/header.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/inscription.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/lolll.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/najah.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/oval.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/page1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/page2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/page3.xml" value="0.264" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/pageformation.xml" value="0.264" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/proc.xml" value="0.2" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/process.xml" value="0.264" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/propos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/question.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/sssu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/suc1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/succ.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/xxx.xml" value="0.12" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/layout/yy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/menu/example_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Users/Hounaida/AndroidStudioProjects/CRMAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

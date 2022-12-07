@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IR SKILLS</string>
+    <string name="open">Open Navigation</string>
+    <string name="close">Close Navigation</string>
+
+    <string name="hyperlink">Learn more about Android app development at\n<a href="https://certify.learnkey.com/aca_graphicdesign_bundle">https://certify.learnkey.com/aca_graphicdesign_bundle</a></string>
+    <string name="hyperlink1">Learn more about Android app development at\n<a href="https://certify.learnkey.com/mos_bundle">https://certify.learnkey.com/mos_bundle</a></string>
+</resources>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FDFCFC">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView400"
+                android:layout_width="match_parent"
+                android:layout_height="216dp"
+                app:srcCompat="@drawable/kh2" />
+
+            <TextView
+                android:id="@+id/textView1444"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="La formation pro c’est quoi !!"
+                android:textColor="#1B50EC"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1455"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="4sp"
+                android:text="Laisser un commentaire / FORMATION / Par ir skills"
+                android:textColor="#050505"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1488"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="-Comment définir la formation professionnelle?"
+                android:textColor="#050505"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1166"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="9sp"
+                android:text="La formation professionnelle est un enchaînement d’apprentissage qui permet aux employés ou aux demandeurs d’emploi de disposer le savoir,le savoir faire et le savoir être pour s’engager dans une activité professionnelle et améliorer l’efficacité et la qualité de leurs travails."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1466"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="9sp"
+                android:text="La demande de formation peut être sous l’ordre de l’employeur,s’il souhaite faire évoluer ses employés ,ou elle peut émaner de vous-même,si vous souhaitez diversifier vos connaissances et perfectionner vos aptitudes personnelles et professionnelles."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1499"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="9sp"
+                android:text="-Quels sont les objectifs de la formation professionnelle?"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1500"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="9sp"
+                android:text="La formation professionnelle est considérée comme un facteur de formalisation de la société,car elle permet de contribuer à la performance économique de l’entreprise tout en apportant une satisfaction professionnelle aux salariés."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView11886"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="Pour les salariés de l’entreprise"
+                android:textColor="#1B50EC"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1200"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="La formation professionnelle permet aux employés d’assurer leur apprentissage,d’enrichir leurs connaissances et d’avoir des niveaux de qualification plus élevés,visant l’amélioration de leur expérience professionnelle."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1211"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Ils pourront aussi faire reconnaître leurs performances et leur savoir-faire dans l’entreprise.Sans oublier que ces derniers peuvent être formés tout en maintenant leurs positions au sein de l’entreprise.De ce fait,ils pourront développer leurs capacités à s’adapter aux changements et de ne pas prendre de retard."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1366"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Grâce à la formation professionnelle,les employés sont plus motivés et participent pleinement à leur entreprise ce qui les rend une équipe performante et soudée."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1411"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Pour les entreprises"
+                android:textColor="#1B50EC"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1422"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="La formation professionnelle est très avantageuse tant pour l’entreprise que pour ses salariés. À titre d’exemple,la transformation digitale est devenue un défi,c’est pour cette raison que les entreprises doivent former leurs salariés afin que ces derniers s’adaptent parfaitement aux nouvelles technologies et répondent aux besoins du secteur d’activité tout en restant toujours en avance."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1433"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Grâce à des employés qualifiés possédant toutes les capacités nécessaires,l’entreprise gagne en productivité et en efficacité.En effet,les employés de l’entreprise seront plus motivés et mettront plus d’énergie pour fournir un meilleur travail dont la finalité primordiale est la satisfaction des clients et l’augmentation de la rentabilité. "
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1511"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Offrir une formation peut permettre à l’entreprise de captiver l’attention des chercheurs d’emploi possédant les meilleures aptitudes.Lors de leurs recherches,ils seront captés par une entreprise soucieuse du développement des compétences de ses employés."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1522"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="-Quels sont les différents types de formation?'"
+                android:textColor="#1B50EC"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1533"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="La formation professionnelle initiale"
+                android:textColor="#1B50EC"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1544"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Comme son nom l’indique,la formation initiale vise à dispenser une formation aux étudiants qui souhaitent apprendre les bases du domaine professionnel et évoluer vers un métier.Par conséquent,elle fournit les compétences et les connaissances nécessaires pour s’engager de faire une brillante carrière réussie.Elle permet donc l’obtention du diplôme,et sa durée peut varier d’une formation à l’autre."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView79"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="La formation professionnelle continue"
+                android:textColor="#1B50EC"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1566"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="La formation continue est une forme d’apprentissage offerte aux employés et aux demandeurs d’emploi pour compléter leurs compétences et assimiler leurs connaissances professionnelles."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1577"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="La formation continue est destinée aux personnes qui possèdent déjà  de l’expérience et qui souhaitent soit changer leur métier et apprendre un autre,soit se former pour faire évoluer leur activité."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1588"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="La formation professionnelle en alternance"
+                android:textColor="#1B50EC"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1599"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Le principe de la formation en alternance est de passer une période de cours et de formation théorique en suivant à la fois une période au sein d’une entreprise en tant qu’un stagiaire ou un salarié.Ce temps de formation sur terrain permet de pratiquer toutes les notions acquises au cours de la formation.À ce titre,l’entreprise bénéficie d’une main d’oeuvre formée aux méthodes de l’entreprise , ce qui facilitera la procédure de recrutement."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/textView1600"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="12sp"
+                android:text="La formation à distance"
+                android:textColor="#1B50EC"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1611"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="15sp"
+                android:text="Pour ceux qui ne veulent pas s’impliquer ou réintégrer l’école, c’est la formation la plus adéquate pour eux.L’apprentissage à distance correspond à suivre les cours et de passer les examens à domicile.Ce mode de formation requiert des moyens de communication reposant sur une technologie électronique.Les étudiants peuvent recevoir les cours par e-mail ou via une plateforme en ligne."
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/tc9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:text="-Article Precedent"
+                android:textColor="#1B50EC"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#fff"
+
+        app:headerLayout="@layout/header"
+        app:itemTextColor="#1B50EC"
+        app:menu="@menu/example_menu">
+
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>

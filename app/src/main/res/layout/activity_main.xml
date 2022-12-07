@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:id="@+id/drawer_layout"
+    tools:context=".MainActivity"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView117"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30sp"
+                    android:gravity="center"
+                    android:text="Votre succès est Notre mission"
+                    android:textColor="#5161ED"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imageView44"
+                    android:layout_width="400sp"
+                    android:layout_height="300sp"
+                    app:srcCompat="@drawable/ft" />
+
+                <TextView
+                    android:id="@+id/textView119"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30sp"
+                    android:gravity="center"
+                    android:text="IR SKILLS"
+                    android:textColor="#5161ED"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView126"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="17sp"
+                    android:gravity="center"
+                    android:text="IR SKILLS est l’Unique chaîne de Centre de Compétences Professionnelles basée au Maroc sur les villes de : Tanger, Casablanca, El Jadida, Meknès, Ifrane, Errachideya, Marrakech et Laayoune."
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/textView127"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30sp"
+                    android:gravity="center"
+                    android:text="Nos Valeurs"
+
+                    android:textColor="#5161ED"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imageView45"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15sp"
+                    app:srcCompat="@drawable/cv1" />
+
+                <TextView
+                    android:id="@+id/textView128"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5sp"
+                    android:gravity="center"
+                    android:text="Expertise"
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView129"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12sp"
+                    android:gravity="center"
+                    android:text="Amélioration continue de la qualité de nos prestations de service assurées par les meilleurs experts dans le domaine pour la maîtrise de vos compétences."
+                    android:textColor="#040404"
+                    android:textSize="18sp"
+                    android:textStyle="italic" />
+
+                <ImageView
+                    android:id="@+id/imageView46"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15sp"
+                    app:srcCompat="@drawable/ccvx" />
+
+                <TextView
+                    android:id="@+id/textView130"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5sp"
+                    android:gravity="center"
+                    android:text="Intégrité"
+                    android:textColor="#040404"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView131"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12sp"
+                    android:gravity="center"
+                    android:text="La confidentialité et la transparence sont des valeurs fondamentales dans notre quotidien pour vous satisfaire et mettre votre confiance au plus haut niveau."
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="italic" />
+
+                <ImageView
+                    android:id="@+id/imageView47"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15sp"
+                    app:srcCompat="@drawable/cv3" />
+
+                <TextView
+                    android:id="@+id/textView132"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5sp"
+                    android:gravity="center"
+                    android:text="Proximité"
+                    android:textColor="#040404"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView133"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12sp"
+                    android:gravity="center"
+                    android:text="Implantation géographique au plus près du client et Interlocuteur dédié et réactif"
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:id="@+id/textView134"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="19sp"
+                    android:text="CE QUE NOS ÉTUDIANTS DISENT"
+                    android:textColor="#FAAD41"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/textView135"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16sp"
+                    android:text="IR SKILLS a changé la vie de ces jeunes"
+                    android:textColor="#0B0B0B"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imageView48"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20sp"
+                    app:srcCompat="@drawable/xxx" />
+
+                <TextView
+                    android:id="@+id/textView137"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12sp"
+                    android:gravity="center"
+                    android:text="“Je n’ai pas les mots pour décrire mon experience avec IR SKILLS mais que puis je dire, vous avez transoformé mon équipe en véritable monstre avec une productivité incroyable. Notre entreprise est maintenant l’un des leaders dans le domaine”"
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView138"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12sp"
+                    android:gravity="center"
+                    android:text="SOUKAINA TALBI, PROJECT MANAGER"
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/imageView49"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15sp"
+                    app:srcCompat="@drawable/cxxxx" />
+
+                <TextView
+                    android:id="@+id/textView139"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12sp"
+                    android:gravity="center"
+                    android:text="“Je suis satisfait par les services de IR SKILLS et leur professionnalisme. Je suis venu dans ce cabinet pour la formation SUPRO, je suis classé le premier dans mon group, pour cela IR SKILLS m’a aidé à decrocher mon job de rêves.”"
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView140"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12sp"
+                    android:gravity="center"
+                    android:text="BADR MAHBOUBI, TECHNICIEN SPECIALISÉ EN ÉLECTROMÉCANIQUE"
+                    android:textColor="#040404"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/b99"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="80sp"
+                    android:layout_marginTop="20sp"
+                    android:layout_marginRight="50sp"
+                    android:background="@drawable/oval"
+                    android:text="Reservez votre Plcae" />
+
+            </LinearLayout>
+        </ScrollView>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="#54B558"
+            app:srcCompat="@drawable/what" />
+    </FrameLayout>
+</LinearLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#1B50EC"
+
+        app:headerLayout="@layout/header"
+        app:itemTextColor="#fff"
+        app:menu="@menu/example_menu">
+
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>

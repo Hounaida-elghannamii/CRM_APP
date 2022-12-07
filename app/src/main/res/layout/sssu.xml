@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:gravity="center"
+                android:text="Inscription"
+                android:textColor="#1B50EC"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView64"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50sp"
+                android:gravity="center"
+                android:text="Merci de nous avoir contacte! Un de nos employes vous contacterez bientot."
+                android:textColor="#050505"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+            <TextView
+                android:id="@+id/textView00"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="30sp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Contact du Centre IR SKILLS :"
+                android:textColor="#1B50EC"
+                android:textSize="19sp"
+                android:textStyle="bold|italic" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView38"
+                    android:layout_width="0sp"
+                    android:layout_height="40sp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/map" />
+
+                <TextView
+                    android:id="@+id/textView82"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Nos adresses :"
+                    android:textColor="#090909"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView103"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160sp"
+                android:layout_marginTop="10sp"
+                android:layout_weight="1"
+                android:text="1.Rue Compiègne belvédère ,Casablanca"
+                android:textColor="#454444" />
+
+            <TextView
+                android:id="@+id/textView104"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160sp"
+                android:layout_marginTop="10sp"
+                android:layout_weight="1"
+                android:text="2.48 Rue Alcadi Ayad, derrière Café Picasso, Tanger"
+                android:textColor="#454444" />
+
+            <TextView
+                android:id="@+id/textView105"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160sp"
+                android:layout_marginTop="10sp"
+                android:layout_weight="1"
+                android:text="3.14.IMM12 Najd 2 , El Jadida"
+                android:textColor="#454444" />
+
+            <TextView
+                android:id="@+id/textView106"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160sp"
+                android:layout_marginTop="10sp"
+                android:layout_weight="1"
+                android:text="4.Toutrite complex , Ras lma, Ifrane"
+                android:textColor="#454444" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView39"
+                    android:layout_width="0sp"
+                    android:layout_height="40sp"
+                    android:layout_gravity="left"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/tel" />
+
+                <TextView
+                    android:id="@+id/textView88"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Num Telephone:"
+                    android:textColor="#090909"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView107"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160sp"
+                android:layout_marginTop="10sp"
+                android:text="06 61 10 31 43"
+                android:textColor="#454444" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageView41"
+                    android:layout_width="0sp"
+                    android:layout_height="40sp"
+                    android:layout_gravity="left"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/loooo" />
+
+                <TextView
+                    android:id="@+id/textView90"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="60sp"
+                    android:layout_weight="1"
+                    android:text="Email :"
+                    android:textColor="#0E0E0E"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView108"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160sp"
+                android:layout_marginTop="10sp"
+                android:layout_weight="1"
+                android:text="contact@irskills.com"
+                android:textColor="#454444" />
+
+            <TextView
+                android:id="@+id/textView109"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="60sp"
+                android:layout_marginTop="10sp"
+                android:text="Réseaux sociaux :"
+                android:textColor="#090909"
+                android:textSize="16sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:id="@+id/ins1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="#fff"
+                    app:srcCompat="@drawable/insta" />
+
+                <ImageButton
+                    android:id="@+id/fb1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="#fff"
+                    app:srcCompat="@drawable/facebook" />
+
+                <ImageButton
+                    android:id="@+id/lk1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="#fff"
+                    app:srcCompat="@drawable/link" />
+
+                <ImageButton
+                    android:id="@+id/w"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="#fff"
+                    app:srcCompat="@drawable/what" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#fff"
+
+        app:headerLayout="@layout/header"
+        app:itemTextColor="#1B50EC"
+        app:menu="@menu/example_menu">
+
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>

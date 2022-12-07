@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/im1"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                app:srcCompat="@drawable/lo" />
+
+            <TextView
+                android:id="@+id/textView85"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12sp"
+                android:text="Lancement du IR Skills"
+                android:textColor="#1B50EC"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView86"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4sp"
+                android:text="CREATION / Par ir skills"
+                android:textColor="#050505"
+                android:textSize="14sp"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:id="@+id/textView87"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9sp"
+                android:text="IR SKILLS est l’Unique chaîne de Centre de Compétences Professionnelles basée au Maroc sur les villes de : Tanger, Casablanca, El Jadida, Meknès, Ifrane, Errachideya, Marrakech et Laayoune. Nous agissons principalement en formations/Coaching dans le cadre des métiers industriels, en audits et en conseils mettant au service des établissements et des acteurs étatiques et privés …"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/tc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="19sp"
+                android:clickable="true"
+                android:text="Lire en Suite >>"
+                android:textColor="#1B50EC"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/im2"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/oo" />
+
+            <TextView
+                android:id="@+id/textView89"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12sp"
+                android:text="La formation pro c’est quoi !!"
+                android:textColor="#1B50EC"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView91"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4sp"
+                android:text="Laisser un commentaire / FORMATION / Par ir skills"
+                android:textColor="#050505"
+                android:textSize="14sp"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:id="@+id/textView92"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9sp"
+                android:text="Comment définir la formation professionnelle? La formation professionnelle est un enchaînement d’apprentissage qui permet aux employés ou aux demandeurs d’emploi de disposer le savoir,le savoir faire et le savoir être pour s’engager dans une activité professionnelle et améliorer l’efficacité et la qualité de leurs travails. La demande de formation peut être sous l’ordre de l’employeur,s’il …"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/tc2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="19sp"
+                android:text="Lire en Suite >>"
+                android:textColor="#1B50EC"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/im3"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:layout_marginTop="20sp"
+                app:srcCompat="@drawable/pppppppppppppppppppppp" />
+
+            <TextView
+                android:id="@+id/textView96"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12sp"
+                android:text="IR Skills, Un Bouquet De Formations et de Coaching Complet"
+                android:textColor="#1B50EC"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView97"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4sp"
+                android:text="Laisser un commentaire / FORMATION / Par ir skills"
+                android:textColor="#050505"
+                android:textSize="14sp"
+                android:textStyle="normal|bold" />
+
+            <TextView
+                android:id="@+id/textView113"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9sp"
+                android:text="Toutes nos formations dans le domaine industriel traitent en détail chaque composante pour optimiser la réalisation des objectifs spécifiques des participants. La Formation HSE  Le terme HSE regroupe les fonctions liées à la sécurité des biens et des travailleurs.C’est un domaine technique qui vise à contrôler les attitudes liées à la qualité,aux risques professionnels et …"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/tc1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="19sp"
+                android:text="Lire en Suite >>"
+                android:textColor="#1B50EC"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#fff"
+
+        app:headerLayout="@layout/header"
+        app:itemTextColor="#1B50EC"
+        app:menu="@menu/example_menu">
+
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>
